@@ -109,18 +109,13 @@ For questions or collaborations:
 
 ---
 
-> **Note**: Remember to:
-> - Add your actual Firebase config file (keep it secret!)
-> - Include the dataset if not proprietary
-> - Update all placeholder URLs
-
 
 ## 👥 Contributors
 I thank the following contributors for their work on PCOSCare:
 
 | Name                  | GitHub Profile |
 |-----------------------|----------------|
-| Yugank Ahuja          | [@yugankahuja](https://github.com/yugankahuja) |
+<!-- | Yugank Ahuja          | [@yugankahuja](https://github.com/yugankahuja) | -->
 | Spatika Girirajan     | [@spatikag](https://github.com/spatikag) |
 | Namratha Muraleedhaan | [@namratham](https://github.com/namratham) |
 | Sana Sehgal           | [@sanasehgal](https://github.com/sanasehgal) |
