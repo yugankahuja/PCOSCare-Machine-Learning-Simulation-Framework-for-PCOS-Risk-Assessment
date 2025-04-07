@@ -89,10 +89,10 @@ PCOSCare/
 └── assets/                 # For screenshots/diagrams
 ```
 
-## 🌐 Live Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
+<!--  ## 🌐 Live Demo
+# [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)-->
 
-*(Replace with your actual deployment URL)*
+
 
 ## 🤝 How to Contribute
 1. Report bugs via [Issues](https://github.com/yourusername/PCOSCare/issues)
