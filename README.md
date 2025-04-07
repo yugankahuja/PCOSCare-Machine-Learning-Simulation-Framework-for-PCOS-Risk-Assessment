@@ -113,12 +113,12 @@ For questions or collaborations:
 ## 👥 Contributors
 I thank the following contributors for their work on PCOSCare:
 
-| Name | GitHub Profile |
+| Name                  | GitHub Profile |
 |-----------------------|----------------|
-<!-- | Yugank Ahuja          | [@yugankahuja](https://github.com/yugankahuja) | -->
-| Spatika Girirajan | [@spatikag](https://github.com/spatikag) |
+| Yugank Ahuja          | [@yugankahuja](https://github.com/yugankahuja) |
+| Spatika Girirajan     | [@spatikag](https://github.com/spatikag) |
 | Namratha Muraleedhaan | [@namratham](https://github.com/namratham) |
-| Sana Sehgal | [@sanasehgal](https://github.com/sanasehgal) |
-| Saima Khatoon | [@saimak](https://github.com/saimak) |
-| Yuchen Liu | [@yuchenl](https://github.com/yuchenl) |
+| Sana Sehgal           | [@sanasehgal](https://github.com/sanasehgal) |
+| Saima Khatoon         | [@saimak](https://github.com/saimak) |
+| Yuchen Liu            | [@yuchenl](https://github.com/yuchenl) |
 
