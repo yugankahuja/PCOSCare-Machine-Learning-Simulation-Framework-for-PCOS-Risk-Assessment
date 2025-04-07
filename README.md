@@ -24,7 +24,7 @@ PCOSCare is an integrated web application that combines machine learning risk pr
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/PCOSCare.git
+git clone https://github.com/yugankahuja/PCOSCare.git
 cd PCOSCare
 
 # Install dependencies
@@ -74,24 +74,30 @@ PCOSCare/
 ## 🌐 Live Demo
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
 
-*(Replace with your actual deployment URL)*
-
 ## 🤝 How to Contribute
-1. Report bugs via [Issues](https://github.com/yourusername/PCOSCare/issues)
+1. Report bugs via [Issues](https://github.com/yugankahuja/PCOSCare/issues)
 2. Fork and submit Pull Requests
 3. Suggest new features or improvements
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details.
 
+## 👥 Contributors
+We thank the following contributors for their work on PCOSCare:
+
+| Name                  | GitHub Profile |
+|-----------------------|----------------|
+| Yugank Ahuja          | [@yugankahuja](https://github.com/yugankahuja) |
+| Spatika Girirajan     | [@spatikag](https://github.com/spatikag) |
+| Namratha Muraleedhaan | [@namratham](https://github.com/namratham) |
+| Sana Sehgal           | [@sanasehgal](https://github.com/sanasehgal) |
+| Saima Khatoon         | [@saimak](https://github.com/saimak) |
+| Yuchen Liu            | [@yuchenl](https://github.com/yuchenl) |
+
+
 ## 📧 Contact
 For questions or collaborations:  
-📩 your.email@example.com  
+📩 yugank.ahuja04@gmail.com  
 🔗 [Project Website](https://your-project-site.com)
 
 ---
-
-> **Note**: Remember to:
-> - Add your actual Firebase config file (keep it secret!)
-> - Include the dataset if not proprietary
-> - Update all placeholder URLs
