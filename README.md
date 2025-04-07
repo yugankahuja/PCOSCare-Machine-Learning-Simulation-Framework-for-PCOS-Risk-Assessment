@@ -24,7 +24,7 @@ PCOSCare is an integrated web application that combines machine learning risk pr
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/yugankahuja/PCOSCare.git
+git clone https://github.com/yourusername/PCOSCare.git
 cd PCOSCare
 
 # Install dependencies
@@ -60,6 +60,24 @@ Predicted PCOS Risk: 72.5%
 | Diet | 73.1 | 1.41 | Moderate | Irregular |
 | None | 76.8 | 1.89 | Severe | Irregular |
 
+## 📝 Dataset Information
+- We use the Diet, Exercise and PCOS Insights dataset from Kaggle with these key features:
+- Age, Weight, Height, BMI
+- Menstrual regularity
+- Hormonal imbalance indicators
+- Lifestyle factors (exercise, diet)
+- PCOS diagnosis (target variable)
+
+## 🧩 Dependencies
+- Python 3.8+
+- Streamlit
+- Firebase Admin SDK
+- scikit-learn
+- Mesa
+- pandas
+- matplotlib
+- numpy
+
 ## 📂 File Structure
 ```
 PCOSCare/
@@ -74,16 +92,31 @@ PCOSCare/
 ## 🌐 Live Demo
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-url.com)
 
+*(Replace with your actual deployment URL)*
+
 ## 🤝 How to Contribute
-1. Report bugs via [Issues](https://github.com/yugankahuja/PCOSCare/issues)
+1. Report bugs via [Issues](https://github.com/yourusername/PCOSCare/issues)
 2. Fork and submit Pull Requests
 3. Suggest new features or improvements
 
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details.
 
+## 📧 Contact
+For questions or collaborations:  
+📩 your.email@example.com  
+🔗 [Project Website](https://your-project-site.com)
+
+---
+
+> **Note**: Remember to:
+> - Add your actual Firebase config file (keep it secret!)
+> - Include the dataset if not proprietary
+> - Update all placeholder URLs
+
+
 ## 👥 Contributors
-We thank the following contributors for their work on PCOSCare:
+I thank the following contributors for their work on PCOSCare:
 
 | Name                  | GitHub Profile |
 |-----------------------|----------------|
@@ -94,10 +127,3 @@ We thank the following contributors for their work on PCOSCare:
 | Saima Khatoon         | [@saimak](https://github.com/saimak) |
 | Yuchen Liu            | [@yuchenl](https://github.com/yuchenl) |
 
-
-## 📧 Contact
-For questions or collaborations:  
-📩 yugank.ahuja04@gmail.com  
-🔗 [Project Website](https://your-project-site.com)
-
----
